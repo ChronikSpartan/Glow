@@ -6,8 +6,6 @@ var breakableBelow = instance_place(x, y + 1, oBreakableBlock);
 var breakableRight = instance_place(x + 1, y , oBreakableBlock);
 var breakableLeft = instance_place(x - 1, y, oBreakableBlock);
 
-path_start(pBoss1, 2, path_action_restart, false)
-
 //hsp = dir * movementSpeed;
 
 //if (vsp < 10) vsp += grav;

@@ -7,3 +7,4 @@ movementSpeed = 2;
 fearOfHeights = 0;
 
 //alarm_set(0,90);
+path_start(pBoss1, 6, path_action_restart, true);

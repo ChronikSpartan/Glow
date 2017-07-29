@@ -591,14 +591,6 @@
             }
         },
         {
-            "Key": "e8d08252-49bf-497d-95fc-fcaa93ce7f21",
-            "Value": {
-                "id": "18a2868e-8048-43d0-bf20-deb899d0ed6c",
-                "resourcePath": "sprites\\spr_gradient\\spr_gradient.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
             "Key": "e93c8ede-7012-48fc-ab68-a085d3f7e95f",
             "Value": {
                 "id": "f71ba8ac-9ddf-4cdb-88a5-cda4b35b2f04",
@@ -607,19 +599,19 @@
             }
         },
         {
-            "Key": "ec3a2ed8-f1d2-4b59-a8bc-8b9c82b2e5ad",
-            "Value": {
-                "id": "e5b25817-f3c6-4fcb-a360-ae2d3ac0d73d",
-                "resourcePath": "sprites\\sBoss111\\sBoss111.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
             "Key": "f2fffa93-a16e-4607-9103-7bb9a2e91ce9",
             "Value": {
                 "id": "8fccdc49-24e1-425f-aa3c-380c1c3ec9c9",
                 "resourcePath": "objects\\oPinballBullet\\oPinballBullet.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "f36f6173-f1ae-4a65-87f2-f5a07dba55c4",
+            "Value": {
+                "id": "238c0e03-fced-47a2-9975-8152dafb5a10",
+                "resourcePath": "sprites\\sBossGradient\\sBossGradient.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
